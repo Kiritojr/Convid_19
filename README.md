@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/carlosfab/template_portfolio/master/banner.png" >
 </p>
 
-# Convid_19-dataset 
+# Coronavírus (Covid-19)
 
 Coronavírus é uma família de vírus que causam infecções respiratórias.
 
