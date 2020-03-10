@@ -8,7 +8,7 @@ Coronavírus é uma família de vírus que causam infecções respiratórias.
 
 Os primeiros coronavírus humanos foram isolados pela primeira vez em 1937. No entanto, foi em 1965 que o vírus foi descrito como coronavírus, em decorrência do perfil na microscopia, parecendo uma coroa.
 
-A maioria das pessoas se infecta com os coronavírus comuns ao longo da vida, sendo as crianças pequenas mais propensas a se infectarem com o tipo mais comum do vírus. Os coronavírus mais comuns que infectam humanos são o alpha coronavírus 229E e NL63 e beta coronavírus OC43, HKU1.
+O Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2), como denotado pela Organização Mundial da Saúde (OMS), anteriormente denominado novo coronavírus de 2019 (2019-nCoV), é um coronavírus, relatado pela primeira vez em 2019 e sequenciado geneticamente após testes de ácido nucleico em uma amostra de paciente positiva em um paciente com pneumonia durante o surto de pneumonia em Wuhan de 2019–2020. Esse surto já infectou mais de 116 119 pessoas, em 115 territórios, matando 4 087 pessoas, em todo o mundo.
 
 **Link:**
 * [LinkedIn](www.linkedin.com/in/roberto-guimarães-jr)
