@@ -13,11 +13,11 @@ O Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2), como denot
 
 # Mundo
 
-![convid-19](https://user-images.githubusercontent.com/59518539/76366361-89bd6380-6308-11ea-92fd-93b58d1bb0a5.png)
+![Peek 2020-03-11 15-12](https://user-images.githubusercontent.com/59518539/76449656-3bad6c00-63ab-11ea-9c6d-af77cce6e76f.gif)
 
 # Brasil
 
-![convid19-Br](https://user-images.githubusercontent.com/59518539/76366564-1ff18980-6309-11ea-855d-75c040d0f089.png)
+![Peek 2020-03-11 15-14](https://user-images.githubusercontent.com/59518539/76449710-4f58d280-63ab-11ea-8892-df9cdd66a6b6.gif)
 
 **Link:**
 * [LinkedIn](https://www.linkedin.com/in/roberto-guimar%C3%A3es-jr/)
