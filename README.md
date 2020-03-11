@@ -20,4 +20,4 @@ O Coronavírus da Síndrome Respiratória Aguda Grave 2 (SARS-CoV-2), como denot
 ![convid19-Br](https://user-images.githubusercontent.com/59518539/76366564-1ff18980-6309-11ea-855d-75c040d0f089.png)
 
 **Link:**
-* [LinkedIn](www.linkedin.com/in/roberto-guimarães-jr)
+* [LinkedIn](https://www.linkedin.com/in/roberto-guimar%C3%A3es-jr/)
